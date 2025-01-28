@@ -1,0 +1,28 @@
+# Query: Laura Thomson
+# ContextLines: 1
+
+5 results - 4 files
+
+index.html:
+   96        <div class="container text-center" data-aos="fade-up" data-aos-delay="100">
+   97:         <h2>Laura Thomson</h2>
+   98          <p>I'M A PROFESSIONAL PHOTOGRAPHER IN NEW YORK CITY</p>
+
+  838      <div class="container">
+  839:       <h3 class="sitename">Laura Thomson<br></h3>
+  840        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+
+portfolio-details.html:
+  181      <div class="container">
+  182:       <h3 class="sitename">Laura Thomson<br></h3>
+  183        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+
+service-details.html:
+  153      <div class="container">
+  154:       <h3 class="sitename">Laura Thomson<br></h3>
+  155        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
+
+starter-page.html:
+  124      <div class="container">
+  125:       <h3 class="sitename">Laura Thomson<br></h3>
+  126        <p>Et aut eum quis fuga eos sunt ipsa nihil. Labore corporis magni eligendi fuga maxime saepe commodi placeat.</p>
